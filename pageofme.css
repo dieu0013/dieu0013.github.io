@@ -1,0 +1,13 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font: 18;
+} 
+
+header footer{
+    background-color: darkblue; 
+} 
+
+footer {
+    text-align: center;
+    text-align: bottom;
+}
