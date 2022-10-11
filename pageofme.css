@@ -10,4 +10,11 @@ header footer{
 footer {
     text-align: center;
     text-align: bottom;
+} 
+
+.myimage{
+    box-shadow: 0px; 
+    box-shadow: black;
+    box-shadow: 2px; 
+
 }
